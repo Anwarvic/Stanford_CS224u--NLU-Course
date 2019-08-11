@@ -19,6 +19,26 @@ It's expected to learn these few concepts after taking this course:
 - Dialogue agents
 
 
+## Getting Started
+
+This course's code is written to run under Python 3.7. It's really recommended to install Anaconda3 for this course -to save a lot of time and effort- that can be done from [here](https://www.anaconda.com/distribution/).
+
+After that, you need to install these few packages:
+```bash
+$ # Install Tensorflow
+$ conda install -c conda-forge tensorflow
+
+$ # Install PyTorch
+$ conda install pytorch torchvision cpuonly -c pytorch
+
+$ # Install mitten
+$ pip install mittens
+
+$ # Install popular packages in NLTK
+$ python
+>>> import nltk
+>>> nltk.download('popular')
+```
 
 ## Acknowledgement
 
