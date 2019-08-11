@@ -18,6 +18,12 @@ It's expected to learn these few concepts after taking this course:
 - Sentiment analysis
 - Dialogue agents
 
+In this repository, you can find nine different lessons. Inside each project, you can find three folders at most:
+ 
+ - *Lab*: which contains exploratory code snippets
+ - *HW*: whch contains the homework for this lesson.
+ - *Slides*: which contains the slides for this lesson.
+ 
 
 ## Getting Started
 
