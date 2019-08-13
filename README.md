@@ -46,6 +46,10 @@ $ python
 >>> nltk.download('popular')
 ```
 
+## Download Data
+
+In this repository, we are using data collected by Prof. Christopher Potts that can be downloaded from [here](https://web.stanford.edu/class/cs224u/data/data.tgz). After downloading either the `.zip` (1.0GB) file or the `.tgz`(1.4GB) file, we should extract its content and put it in the root directory of this repository.
+
 ## Acknowledgement
 
 Special Thanks to Stanford for making this great course publically available.
