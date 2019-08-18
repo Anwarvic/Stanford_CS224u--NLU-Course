@@ -1,5 +1,7 @@
-import numpy as np
+import sys
+import random
 import logging
+import numpy as np
 
 
 
@@ -24,3 +26,10 @@ def tf_train_progress_logging():
     def info_filter(logrec):
         return int('loss' in logrec.getMessage().lower())
     logging.getLogger('tensorflow').addFilter(info_filter)
+
+
+def progress_bar(msg):
+    """Simple over-writing progress bar."""
+    sys.stderr.write('\r')
+    sys.stderr.write(msg)
+    sys.stderr.flush()
