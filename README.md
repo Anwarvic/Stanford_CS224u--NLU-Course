@@ -2,7 +2,10 @@
 
 This repository contains my solution to the Stanford course "[Natural Language Understanding](http://web.stanford.edu/class/cs224u/)"under CS224u code by prof. [Bill MacCartney](http://nlp.stanford.edu/~wcmac/) and Prof.[Christopher Potts](http://web.stanford.edu/~cgpotts/) in Summer 2019.
 
-The original assignment (without my solution) can be found via the official GitHub repository of Prof. Potts [here](https://github.com/cgpotts/cs224u/). Also, you can watch the lectures for free on YouTube. Here is the official [playlist](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20).
+The original assignment (without my solution) can be found via the official GitHub repository of Prof. Potts [here](https://github.com/cgpotts/cs224u/). Also, you can watch the lectures for free on YouTube. Here is the official playlist.
+
+
+[![](http://www.mediafire.com/convkey/94ce/tvzvvo70ysfp2jjzg.jpg)](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)
 
 
 ## About the Course
